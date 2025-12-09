@@ -31,12 +31,7 @@ A simple Tkinter GUI is also included, allowing users to upload an X-ray image a
 Use the publicly available Chest X-ray Pneumonia dataset (Kaggle):
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
-Directory structure expected:
 
-chest_xray/
-    ├── train/
-    ├── val/
-    └── test/
 
 🔧 Installation
 1. Install Required Libraries
