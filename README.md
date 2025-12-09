@@ -21,10 +21,15 @@ A simple Tkinter GUI is also included, allowing users to upload an X-ray image a
 
 📁 Project Structure
 ├── train_pneumonia_model.py      # Training & evaluation code
+
 ├── gui_app.py                    # Tkinter GUI for prediction
+
 ├── pneumonia_model_fast.h5       # Saved trained model
+
 ├── chest_xray/                   # Dataset (train/val/test folders)
+
 └── README.md
+
 
 📥 Dataset
 
