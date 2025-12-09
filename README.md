@@ -20,6 +20,7 @@ A simple Tkinter GUI is also included, allowing users to upload an X-ray image a
 ✓ Training history plots (accuracy & loss)
 
 📁 Project Structure
+
 ├── train_pneumonia_model.py      # Training & evaluation code
 
 ├── gui_app.py                    # Tkinter GUI for prediction
